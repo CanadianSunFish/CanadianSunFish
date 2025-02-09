@@ -8,7 +8,7 @@ I'm a Physics and Applied Math undergrad studying at the University of Utah. My 
 ## Skills and Interests
 
 - **Programming Languages**: Python, Java, C++, MATLAB
-- **Areas of Interest**: Quantum Computing, Condensed Matter, Astroparticle, Open-Source Software
+- **Areas of Interest**: Quantum Computing, Condensed Matter, Astroparticle, Financial Mathematics
 - **Data Science & Machine Learning**: NumPy, Pandas, Scikit-learn, TensorFlow
 - **Mathematics**: PDE, ODE, Numerical Analysis, Linear Algebra
 - **Tools & Technologies**: Git, Linux, LaTeX, Docker
